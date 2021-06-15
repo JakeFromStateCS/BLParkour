@@ -1,0 +1,3 @@
+
+MINIGAME = MINIGAME or {};
+MINIGAME.Nigs = {};

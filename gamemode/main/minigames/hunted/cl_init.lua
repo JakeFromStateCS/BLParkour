@@ -1,0 +1,2 @@
+
+MINIGAME = MINIGAME or {};
